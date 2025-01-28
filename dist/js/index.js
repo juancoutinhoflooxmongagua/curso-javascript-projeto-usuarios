@@ -1,3 +1,9 @@
-nome = document.querySelector("#exampleInputName").value
-
-nome.value = "juan";
+var name = document.querySelector("#exampleInputName")
+var name = document.querySelectoAll("#form-user-create [name-gender]:checked")
+var name = document.querySelector("#exampleInputGenderF")
+var name = document.querySelector("#exampleInputBirth")
+var name = document.querySelector("#exampleInputCountry")
+var name = document.querySelector("#exampleInputEmail")
+var name = document.querySelector("#exampleInputPassword")
+var name = document.querySelector("#exampleInputFile")
+var name = document.querySelector("#exampleInputAdmin")
